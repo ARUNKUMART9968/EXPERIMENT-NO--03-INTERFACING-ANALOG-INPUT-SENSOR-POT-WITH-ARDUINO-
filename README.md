@@ -106,7 +106,7 @@ void setup ()
 **
 **Simulation output:** 
 **
-![Uploading out.jpg…]()
+![out](https://user-images.githubusercontent.com/121215794/233995935-d30a43df-4193-4f8f-bd3c-684bc2dd9037.jpg)
 
 
 [My image](username.github.com/repository/img/image.jpg)
