@@ -69,6 +69,7 @@ CIRCUIT DIAGRAM
 
 
 **PROGRAM** 
+```
 int potPin= A5;
 int ledPin=2;
 void setup ()
@@ -92,7 +93,7 @@ void setup ()
    }
    
  }
-
+```
  
 
 
