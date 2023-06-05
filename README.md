@@ -1,6 +1,6 @@
 # EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
 
-
+## DATE 10-04-2023
 
 
 **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
